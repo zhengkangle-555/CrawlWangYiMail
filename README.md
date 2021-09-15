@@ -19,4 +19,4 @@
 
 **4 其他**
 - 代码开发者：欢迎点击我的[知乎首页](https://www.zhihu.com/people/zkl66)
-- 如果想学习数据分析或者数据挖掘的，推荐查看我在[和鲸社区](https://www.heywhale.com/mw/project/61342a57c9c30f001878d043)上线的项目，[Github](https://github.com/zhengkangle-555/ConsumersProfile)上也有资源
+- 如果想学习数据分析或者数据挖掘的，推荐查看我在[和鲸社区](https://www.heywhale.com/mw/project/61342a57c9c30f001878d043)上线的项目
